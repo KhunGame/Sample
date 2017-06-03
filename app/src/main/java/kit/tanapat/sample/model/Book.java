@@ -1,4 +1,4 @@
-package kit.tanapat.sample;
+package kit.tanapat.sample.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
